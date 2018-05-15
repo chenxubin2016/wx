@@ -1,0 +1,5 @@
+<checkbox-group bindchange="checkboxChange" class='checkbox-group-style'>
+  <label wx:for='{{items}}' wx:key='*this'>
+    <checkbox value='{{item.name}}' checked='{{item.checked}}'></checkbox>{{item.value}}
+  </label>
+</checkbox-group>

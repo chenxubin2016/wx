@@ -1,0 +1,6 @@
+.checkbox-group-style{
+  font-size:28rpx;
+}
+.checkbox-group-style label{
+  display: block;
+}

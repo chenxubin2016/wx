@@ -1,0 +1,5 @@
+<view class="container">
+  <view bindtap='linkto'>
+    <label>当前定位为：{{currentCity}}</label>
+  </view>
+</view>

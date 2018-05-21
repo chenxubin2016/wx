@@ -1,10 +1,19 @@
 {
   "pages": [
+    "pages/getLocation/getLocation",
+    "pages/request/request",
+    "pages/map/map",
+    "pages/camera/camera",
+    "pages/image/image",
+    "pages/switch/switch",
+    "pages/slider/slider",
+    "pages/picker-view/picker-view",
+    "pages/picker/picker",
     "pages/input/input",
     "pages/form/form",
     "pages/checkbox-group/checkbox-group",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs"    
   ],
   "window": {
     "backgroundTextStyle": "light",

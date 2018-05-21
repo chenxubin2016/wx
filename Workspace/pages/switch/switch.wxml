@@ -1,0 +1,3 @@
+<view>
+  <switch type="{{type}}" checked="{{checked}}" bindchange="switchChange"></switch>
+</view>

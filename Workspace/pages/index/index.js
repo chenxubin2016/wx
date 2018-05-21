@@ -15,6 +15,11 @@ Page({
       url: '../logs/logs'
     })
   },
+  linkback:function(){
+    wx.navigateBack({
+      delta:1
+    })
+  },
   onLoad: function () {
     if (app.globalData.userInfo) {
       this.setData({

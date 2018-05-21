@@ -1,0 +1,4 @@
+<view>
+  <view>{{msg}}</view>
+  <button bindtap='chooseImg'>请选择照片</button>
+</view>
